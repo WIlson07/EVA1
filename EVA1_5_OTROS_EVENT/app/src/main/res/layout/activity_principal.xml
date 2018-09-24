@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Principal">
+
+    <RadioGroup
+        android:id="@+id/rdGrpOpciones"
+        android:layout_width="152dp"
+        android:layout_height="174dp"
+        tools:layout_editor_absoluteX="129dp"
+        tools:layout_editor_absoluteY="16dp">
+
+        <RadioButton
+            android:id="@+id/btnTortas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Tortas" />
+
+        <RadioButton
+            android:id="@+id/btnTacos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Tacos" />
+
+        <RadioButton
+            android:id="@+id/btnChiles"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Chiles Rellenos" />
+
+        <RadioButton
+            android:id="@+id/btnMontados"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Montados" />
+    </RadioGroup>
+
+</android.support.constraint.ConstraintLayout>

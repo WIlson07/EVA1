@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EVA1_8_RECURSOS_IDIOMA</string>
+    <string name="rd_espa_es">Español</string>
+    <string name="rd_espa_en">Spanish</string>
+    <string name="rd_ingles_es">Ingles</string>
+    <string name="rd_ingles_en">English</string>
+
+    <string name="tv_nombre_es">Nombre:</string>
+    <string name="tv_nombre_en">Name:</string>
+
+    <string name="et_nombre_es">Escriba Su Nombre:</string>
+    <string name="et_nombre_en">First Name:</string>
+</resources>
