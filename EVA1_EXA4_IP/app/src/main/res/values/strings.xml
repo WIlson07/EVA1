@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EVA1_EXA4_IP</string>
+    <string name="err_bad_ip">Bad IP format</string>
+    <string name="err_ip_range">IP out of range</string>
+</resources>
